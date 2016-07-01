@@ -1,0 +1,212 @@
+#head1{
+    position: top;
+    font-size: 3em;
+    color: white;
+    max-height:3em;
+    font-family:  Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    text-decoration: underline;
+    }
+
+body{
+    background: url("./images/pic4.jpg");
+    position: absolute;
+    background-repeat: repeat;
+    padding-top: 0px;
+    color:wHITE;
+    }
+
+.left-con{
+    width: 35%;
+    position: absolute;
+    /*top: 500px;*/
+    left: 10px;
+    font-family: sans-serif;
+    }
+
+.right-con{
+    width: 120%;
+    height: 1544px;
+    position: absolute;
+    /*top: 495px;*/
+    left: 300px;
+    }
+
+.right1-con{
+    width: 35%;
+    height: 1544px;
+    position: absolute;
+    /*top: 495px;*/
+    left: 170%;
+    margin: 20px 0;
+    background-color: black;
+ 
+    
+}
+
+a
+    {
+    width:220px;
+    color:white;
+    text-decoration: none;
+    text-indent: 10px;
+    font-size: 8px;
+    }
+
+.pHead{
+    Width : 220px;
+	text-align : center;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid white;
+    padding:1px;
+    box-shadow: 0px;
+    font-size: 16px;
+    }
+
+.Links {
+	Width : 220px;
+    padding:5px;
+	text-align : left;
+    text-decoration: none;
+    box-shadow: 0 0 50px 0px;
+    }
+
+.list-group{
+    text-indent: -40px;
+    }
+
+.Links:hover{
+    border: 1px outset lightslategray;
+    }
+
+#t1{
+    border: 1px;
+    border-radius: 20px;
+    }
+
+hr{
+    color: white;
+    display:block;
+    border-style:dashed;
+    }
+
+.Social-link{
+    padding: 0px;
+    margin: 0px;
+    }
+
+.right-h2{
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    margin-left: 180px;
+    margin-right: 180px;
+    border: 1px solid white;
+    }
+
+.right1-h2{
+    text-align: center;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid white;
+    
+}
+
+.right-para{
+    font-size: 15px;
+    text-align: justify;
+    }
+
+.underline{    
+    font-size: 30px;
+    color: white;
+    }
+
+.img{
+height: 200px;
+width:300px;
+   }
+
+.url-link:hover{
+    color:red;
+    }
+
+.vpic{
+    border-radius: 10px;
+    }
+
+.table-right1-con{
+    width: 90%;
+    text-align:center;
+    margin: 5px;
+}
+
+.table-right1-con th{
+padding : 5px;
+}
+
+.twit{
+    color: deepskyblue;
+}
+.fb{
+    color: blue;
+}
+.G-P{
+    color:red;
+}
+.linkd{
+    color : lightskyblue;
+}
+.plus{
+    color: greenyellow;
+}
+
+.home{
+    font-size: 1.5em;
+    color: mediumspringgreen;
+}
+
+#table-right1-con td{
+background-color: darkslategray;
+padding: 5px;
+font-size:1.2em;
+text-align: center;
+box-shadow: 0 0 50px 0;
+}
+
+.right1-head{
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid white;
+    font-size: 1.5em;
+    border-radius: 8px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.right1-body{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+}
+
+.right1-body a{
+    font-size: 16px;
+    text-align: center;
+    padding:10px;
+}
+
+.right1-body a:hover{
+    color : red;
+}
+  
